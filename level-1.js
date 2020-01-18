@@ -36,7 +36,9 @@ for (var i = 15; i <= 25; i++) {
 // question 6
 
 for (var i = 15; i <= 25; i++) {
-  if (i === 20) console.log(i);
+  if (i === 20) {
+    console.log(i);
+  }
 }
 
 // question 7
